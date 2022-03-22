@@ -1,4 +1,4 @@
 .idea/
 Git_test_IDEA.iml
 target/
-*.java
+src/main/java/com/zua/po/*.java

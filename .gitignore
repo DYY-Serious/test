@@ -1,4 +1,4 @@
 .idea/
 Git_test_IDEA.iml
 target/
-*.class
+*.java
